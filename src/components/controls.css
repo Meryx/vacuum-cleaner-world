@@ -1,0 +1,53 @@
+.config-selection {
+  width: 7rem;
+  height: 1.2rem;
+}
+
+.size {
+  display: flex;
+  flex-direction: column;
+  margin-right: 1rem;
+  flex-wrap: wrap;
+}
+
+.obstacle-chance {
+  display:flex;
+  flex-direction: column;
+  margin-right: 1rem;
+  flex-wrap: wrap;
+}
+
+.dirt-chance {
+  display: flex;
+  flex-direction: column;
+  margin-right: 1rem;
+  flex-wrap: wrap;
+}
+
+.controls {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.layout {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 1%;
+  flex-wrap: wrap;
+
+}
+
+.buttons {
+  margin-bottom: 1%;
+}
+
+.config-button {
+  width: 7rem;
+  height: 1.2rem;
+  margin-right: 1rem;
+}
+
+.vacuum-cleaner-header {
+  text-align: center;
+}
